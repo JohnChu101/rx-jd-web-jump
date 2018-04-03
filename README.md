@@ -1,2 +1,2 @@
 # rx-jd-web-jump
-阻止浏览京东 web 时从浏览器强行跳转到应用市场的行为
+Avoid the web version of JD.com prompting the installation from JD client on Google Play.
